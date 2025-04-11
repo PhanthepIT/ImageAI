@@ -10,7 +10,7 @@ const gridGallery = document.querySelector(".gallery-grid");
 
 
 
-//const API_KEY = "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"; //Hugging face API key
+const API_KEY = "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"; //Hugging face API key
 
 const examplePrompts = [
     "A futuristic cityscape at sunset, with flying cars and neon lights, in cyberpunk style",
